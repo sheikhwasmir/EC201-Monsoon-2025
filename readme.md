@@ -20,7 +20,7 @@
 🢣 $\textcolor{red}{To\ be\ Held\ on\ XX\ Nov\}$
 
 ### Text Books & Other Materials
-| Sl. No. | Book/Source  | Author / Channel | Link to Source|                                                                                              
+| Sl. No. | Book | Author | Link to Source|                                                                                              
 |:---:|:--:|:--|:--------------------------:|
 | 1       | Electronic Devices And Circuit Theory, 11th Edition        |Boylestad, Nashelsky|  [EDCT11E](https://drive.google.com/file/d/1N_WZ8uH8GEKh8DWZ2zh5ShM0W37qtTHv/view?usp=drive_link)|
 | 2       | CMOS Digital Integrated Circuits, 2E                       | Kang, Leblebici |                [CDIC](https://drive.google.com/file/d/1BL6NRLStpfjpM32yeMuDO61SIfg6-S_j/view?usp=drive_link)| 
