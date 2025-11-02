@@ -1,20 +1,21 @@
 # ANALOG CIRCUITS || MONSOON 2025 || ACADEMIC YEAR 2025-26
 
 ### Lecture Details || After Mid Semester
-| Sl. No. | Date | Day              | Topic | Slide / Source |                                                                                           
+| Lecture No. | Date | Day              | Topic | Slide / Source |                                                                                           
 |:-------:|:----:|:-----------------|:------|:-------------------------------:|
-| 1      | 06-Oct-2025 | Monday       | Lecture 1 ~ FET Introduction, n-Channel JFET (Construction) | [PP. XX--XX]()| 
-| 2      | 08-Oct-2025 | Wednesday    | Lecture 2 ~ nJFET (Operation & Characteristics)  | [PP. XX--XX]()| 
-| 3      | 09-Oct-2025 | Thursday     | Lecture 3 ~ nJFET & pJFET (Construction, Operation & Characteristics) | [Slide](https://drive.google.com/file/d/1gjQ7CFMn_7XrkxwBIosUtchOJ_ats-tb/view?usp=drive_link)| 
-| 4      | 15-Oct-2025 | Wednesday    | Lecture 4 ~ D-MOSFET (Construction, Operation & Characteristics) | [PP. XX--XX]()| 
-| 5      | 16-Oct-2025  | Thursday    | Lecture 5 ~ E-MOSFET (Construction, Operation & Characteristics) | [Slide](https://drive.google.com/file/d/1v0_zxt2Htyxjo1wHCyxjme4xiYVnFfSu/view?usp=drive_link)| 
-| 6(i)   | 23-Oct-2025 | Thursday     | Lecture 6(i) ~ FET Biasing I  (nJFET - Fixed Bias, Self Bias) | [PP. XX--XX]()| 
-| 6(ii)  | 23-Oct-2025 | Thursday     | Lecture 6(ii) ~ FET Biasing I  (nJFET - Voltage Divider Bias) | [Slide](https://drive.google.com/file/d/17G-9JOcGCwKrkzyMMRfCSndgy9kpUOnt/view?usp=drive_link)| 
-| 7      | 19-Nov-2024 | Tuesday     | Lecture 7 ~ E-MOSFET Amplifier (AC Analysis) | [Slide](https://drive.google.com/file/d/17G-9JOcGCwKrkzyMMRfCSndgy9kpUOnt/view?usp=drive_link)| 
-| 8      | 19-Nov-2024 | Tuesday     | Lecture 8 ~ E-MOSFET Amplifier (AC Analysis) | [Slide](https://drive.google.com/file/d/17G-9JOcGCwKrkzyMMRfCSndgy9kpUOnt/view?usp=drive_link)| 
-| 9(i)   | 19-Nov-2024 | Tuesday     | Lecture 9(i) ~ E-MOSFET Amplifier (AC Analysis) | [Slide](https://drive.google.com/file/d/17G-9JOcGCwKrkzyMMRfCSndgy9kpUOnt/view?usp=drive_link)|
-| 9(ii)  | 19-Nov-2024 | Tuesday     | Lecture 9(ii) ~ E-MOSFET Amplifier (AC Analysis) | [Slide](https://drive.google.com/file/d/17G-9JOcGCwKrkzyMMRfCSndgy9kpUOnt/view?usp=drive_link)|
-### Combined Quiz 
+| 1      | 06-Oct-2025 | Monday       | FET Introduction, n-Channel JFET (Construction) | [PP. XX--XX]()| 
+| 2      | 08-Oct-2025 | Wednesday    | nJFET (Operation & Characteristics)  | [PP. XX--XX]()| 
+| 3      | 09-Oct-2025 | Thursday     | nJFET & pJFET (Construction, Operation & Characteristics) | [Slide](https://drive.google.com/file/d/1gjQ7CFMn_7XrkxwBIosUtchOJ_ats-tb/view?usp=drive_link)| 
+| 4      | 15-Oct-2025 | Wednesday    | D-MOSFET (Construction, Operation & Characteristics) | [PP. XX--XX]()| 
+| 5      | 16-Oct-2025 | Thursday     | E-MOSFET (Construction, Operation & Characteristics) | [Slide](https://drive.google.com/file/d/1v0_zxt2Htyxjo1wHCyxjme4xiYVnFfSu/view?usp=drive_link)| 
+| 6(i)   | 23-Oct-2025 | Thursday     | FET Biasing I (nJFET: Fixed Bias, Self Bias) | [PP. XX--XX]()| 
+| 6(ii)  | 23-Oct-2025 | Thursday     | FET Biasing II (nJFET: Voltage Divider Bias) | [Slide](https://drive.google.com/file/d/17G-9JOcGCwKrkzyMMRfCSndgy9kpUOnt/view?usp=drive_link)| 
+| 7      | 27-Oct-2025 | Monday       | FET Biasing III (nJFET: Voltage Divider Bias, Common Gate Configuration; n-Ch D-MOSFET: Voltage Divider Bias) | [Slide](https://drive.google.com/file/d/17G-9JOcGCwKrkzyMMRfCSndgy9kpUOnt/view?usp=drive_link)| 
+| 8      | 29-Oct-2025 | Wednesday    | FET Biasing IV (n-Ch E-MOSFET: Feedback Bias, Voltage Divider Bias) | [Slide](https://drive.google.com/file/d/17G-9JOcGCwKrkzyMMRfCSndgy9kpUOnt/view?usp=drive_link)| 
+| 9(i)   | 30-Oct-2025 | Thursday      | FET Amplifiers I (Introduction, Application, Amplifier Configurations, JFET Small Signal Model) | [Slide](https://drive.google.com/file/d/17G-9JOcGCwKrkzyMMRfCSndgy9kpUOnt/view?usp=drive_link)|
+| 9(ii)  | 30-Oct-2025 | Thursday      | FET Amplifiers II (JFET Small Signal Model: Mathematical Determination of gm) | [PP. XX--XX]()|
+
+### Quiz-II 
 ~[Second Quiz (After Mid Sem till the Lecture 10)]
 🢣 $\textcolor{red}{To\ be\ Held\ on\ XX\ Nov\}$
 
