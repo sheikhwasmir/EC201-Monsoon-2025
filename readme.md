@@ -1,8 +1,8 @@
 # ANALOG CIRCUITS || MONSOON 2025 || ACADEMIC YEAR 2025-26
 
-### Lecture Details || After Mid Semester
-| Lecture No. | Date | Day              | Topic | Slide / Source |                                                                                           
-|:-------:|:----:|:-----------------|:------|:-------------------------------:|
+### Lecture Details || After Mid Semester || October to December 2026
+| Lecture No. | Date | Day            | Topic | Slide / Source |                                                                                           
+|:-----------:|:----:|:---------------|:----------------------------------------------------------|:-------------------------------:|
 | 1      | 06-Oct-2025 | Monday       | FET Introduction, n-Channel JFET (Construction) | [PP. XX--XX]()| 
 | 2      | 08-Oct-2025 | Wednesday    | nJFET (Operation & Characteristics)  | [PP. XX--XX]()| 
 | 3      | 09-Oct-2025 | Thursday     | nJFET & pJFET (Construction, Operation & Characteristics) | [Slide](https://drive.google.com/file/d/1gjQ7CFMn_7XrkxwBIosUtchOJ_ats-tb/view?usp=drive_link)| 
