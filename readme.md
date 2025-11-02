@@ -15,8 +15,8 @@
 | 9      | 19-Nov-2024 | Tuesday     | Lecture 18 ~ E-MOSFET Amplifier (AC Analysis) | [Slide](https://drive.google.com/file/d/17G-9JOcGCwKrkzyMMRfCSndgy9kpUOnt/view?usp=drive_link)|
 | 9(ii)  | 19-Nov-2024 | Tuesday     | Lecture 18 ~ E-MOSFET Amplifier (AC Analysis) | [Slide](https://drive.google.com/file/d/17G-9JOcGCwKrkzyMMRfCSndgy9kpUOnt/view?usp=drive_link)|
 ### Combined Quiz 
-~[First Quiz (Portions Before Mid Sem) & Second Quiz (After Mid Sem till the Lecture 14)]
-🢣 $\textcolor{red}{Held\ on\ 14\ Nov\}$
+~[Second Quiz (After Mid Sem till the Lecture 10)]
+🢣 $\textcolor{red}{To\ be\ Held\ on\ XX\ Nov\}$
 
 ### Text Books & Other Materials
 | Sl. No. | Book/Source  | Author / Channel | Link to Source|                                                                                              
