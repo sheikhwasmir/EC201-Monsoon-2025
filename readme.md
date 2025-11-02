@@ -3,17 +3,17 @@
 ### Lecture Details || After Mid Semester
 | Sl. No. | Date | Day              | Topic | Slide / Source |                                                                                           
 |:-------:|:----:|:-----------------|:------|:-------------------------------:|
-| 1      | 22-Oct-2024 | Tuesday     | Lecture 8 ~ JFET Biasing (DC Analysis) | [Slide](https://drive.google.com/file/d/1BRpakTDQ1LbVwamggiU6nF9UUPgjIlws/view?usp=drive_link)| 
-| 2      | 24-Oct-2024 | Thursday    | Lecture 9 ~ JFET Biasing (DC Analysis) [Contd.] | [Slide](https://drive.google.com/file/d/1rdLT7DVfW5weWXk6pr-lgwjHSwla8ekV/view?usp=drive_link)| 
-| 3      | 29-Oct-2024 | Tuesday     | Lecture 11 ~ JFET Amplifier (AC Analysis) | [Slide](https://drive.google.com/file/d/1gjQ7CFMn_7XrkxwBIosUtchOJ_ats-tb/view?usp=drive_link)| 
-| 4      | 5-Nov-2024  | Tuesday     | Lecture 13 ~ D-MOSFET (Construction & Operation) | [Slide](https://drive.google.com/file/d/1MD83ZP6mK9HqGMQkvBmOLCBLeSl9qx-l/view?usp=drive_link)| 
-| 5      | 7-Nov-2024  | Thursday    | Lecture 14 ~ E-MOSFET (Construction & Operation) | [Slide](https://drive.google.com/file/d/1v0_zxt2Htyxjo1wHCyxjme4xiYVnFfSu/view?usp=drive_link)| 
-| 6(i)   | 12-Nov-2024 | Tuesday     | Lecture 16 ~ E-MOSFET Biasing  (DC Analysis) | [Slide](https://drive.google.com/file/d/1gzq2iwh9KDxxMxtOKN3bzGSiYH4OIh-Z/view?usp=drive_link)| 
-| 6(ii)  | 19-Nov-2024 | Tuesday     | Lecture 18 ~ E-MOSFET Amplifier (AC Analysis) | [Slide](https://drive.google.com/file/d/17G-9JOcGCwKrkzyMMRfCSndgy9kpUOnt/view?usp=drive_link)| 
-| 7      | 19-Nov-2024 | Tuesday     | Lecture 18 ~ E-MOSFET Amplifier (AC Analysis) | [Slide](https://drive.google.com/file/d/17G-9JOcGCwKrkzyMMRfCSndgy9kpUOnt/view?usp=drive_link)| 
-| 8      | 19-Nov-2024 | Tuesday     | Lecture 18 ~ E-MOSFET Amplifier (AC Analysis) | [Slide](https://drive.google.com/file/d/17G-9JOcGCwKrkzyMMRfCSndgy9kpUOnt/view?usp=drive_link)| 
-| 9      | 19-Nov-2024 | Tuesday     | Lecture 18 ~ E-MOSFET Amplifier (AC Analysis) | [Slide](https://drive.google.com/file/d/17G-9JOcGCwKrkzyMMRfCSndgy9kpUOnt/view?usp=drive_link)|
-| 9(ii)  | 19-Nov-2024 | Tuesday     | Lecture 18 ~ E-MOSFET Amplifier (AC Analysis) | [Slide](https://drive.google.com/file/d/17G-9JOcGCwKrkzyMMRfCSndgy9kpUOnt/view?usp=drive_link)|
+| 1      | 06-Oct-2025 | Monday       | Lecture 1 ~ FET Introduction, n-Channel JFET (Construction) | [PP. XX--XX]()| 
+| 2      | 08-Oct-2025 | Wednesday    | Lecture 2 ~ nJFET (Operation & Characteristics)  | [PP. XX--XX]()| 
+| 3      | 09-Oct-2025 | Thursday     | Lecture 3 ~ nJFET & pJFET (Construction, Operation & Characteristics) | [Slide](https://drive.google.com/file/d/1gjQ7CFMn_7XrkxwBIosUtchOJ_ats-tb/view?usp=drive_link)| 
+| 4      | 15-Oct-2025 | Wednesday    | Lecture 4 ~ D-MOSFET (Construction, Operation & Characteristics) | [PP. XX--XX]()| 
+| 5      | 16-Oct-2025  | Thursday    | Lecture 5 ~ E-MOSFET (Construction, Operation & Characteristics) | [Slide](https://drive.google.com/file/d/1v0_zxt2Htyxjo1wHCyxjme4xiYVnFfSu/view?usp=drive_link)| 
+| 6(i)   | 23-Oct-2025 | Thursday     | Lecture 6(i) ~ FET Biasing I  (nJFET - Fixed Bias, Self Bias) | [PP. XX--XX]()| 
+| 6(ii)  | 23-Oct-2025 | Thursday     | Lecture 6(ii) ~ FET Biasing I  (nJFET - Voltage Divider Bias) | [Slide](https://drive.google.com/file/d/17G-9JOcGCwKrkzyMMRfCSndgy9kpUOnt/view?usp=drive_link)| 
+| 7      | 19-Nov-2024 | Tuesday     | Lecture 7 ~ E-MOSFET Amplifier (AC Analysis) | [Slide](https://drive.google.com/file/d/17G-9JOcGCwKrkzyMMRfCSndgy9kpUOnt/view?usp=drive_link)| 
+| 8      | 19-Nov-2024 | Tuesday     | Lecture 8 ~ E-MOSFET Amplifier (AC Analysis) | [Slide](https://drive.google.com/file/d/17G-9JOcGCwKrkzyMMRfCSndgy9kpUOnt/view?usp=drive_link)| 
+| 9(i)   | 19-Nov-2024 | Tuesday     | Lecture 9(i) ~ E-MOSFET Amplifier (AC Analysis) | [Slide](https://drive.google.com/file/d/17G-9JOcGCwKrkzyMMRfCSndgy9kpUOnt/view?usp=drive_link)|
+| 9(ii)  | 19-Nov-2024 | Tuesday     | Lecture 9(ii) ~ E-MOSFET Amplifier (AC Analysis) | [Slide](https://drive.google.com/file/d/17G-9JOcGCwKrkzyMMRfCSndgy9kpUOnt/view?usp=drive_link)|
 ### Combined Quiz 
 ~[Second Quiz (After Mid Sem till the Lecture 10)]
 🢣 $\textcolor{red}{To\ be\ Held\ on\ XX\ Nov\}$
