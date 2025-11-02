@@ -15,6 +15,15 @@
 | 9(i)   | 30-Oct-2025 | Thursday      | FET Amplifiers I (Introduction, Application, Amplifier Configurations, JFET Small Signal Model) | [Slide](https://drive.google.com/file/d/1Hvw00pJ23F3egvcpgSIXqzI39kluFoot/view?usp=drive_link)|
 | 9(ii)  | 30-Oct-2025 | Thursday      | FET Amplifiers II (JFET Small Signal Model: Mathematical Determination of gm) | [PP. XX--XX]()|
 
+
+| 1      | 22-Oct-2024 | Tuesday     | Lecture 8 ~ JFET Biasing (DC Analysis) | [Slide](https://drive.google.com/file/d/1BRpakTDQ1LbVwamggiU6nF9UUPgjIlws/view?usp=drive_link)| 
+| 2      | 24-Oct-2024 | Thursday      | Lecture 9 ~ JFET Biasing (DC Analysis) [Contd.] | [Slide](https://drive.google.com/file/d/1rdLT7DVfW5weWXk6pr-lgwjHSwla8ekV/view?usp=drive_link)| 
+| 3     | 29-Oct-2024 | Tuesday     | Lecture 11 ~ JFET Amplifier (AC Analysis) | [Slide](https://drive.google.com/file/d/1gjQ7CFMn_7XrkxwBIosUtchOJ_ats-tb/view?usp=drive_link)| 
+| 4      | 5-Nov-2024 | Tuesday    | Lecture 13 ~ D-MOSFET (Construction & Operation) | [Slide](https://drive.google.com/file/d/1MD83ZP6mK9HqGMQkvBmOLCBLeSl9qx-l/view?usp=drive_link)| 
+| 5      | 7-Nov-2024 | Thursday      | Lecture 14 ~ E-MOSFET (Construction & Operation) | [Slide](https://drive.google.com/file/d/1v0_zxt2Htyxjo1wHCyxjme4xiYVnFfSu/view?usp=drive_link)| 
+| 6      | 12-Nov-2024 | Tuesday     | Lecture 16 ~ E-MOSFET Biasing  (DC Analysis) | [Slide](https://drive.google.com/file/d/1gzq2iwh9KDxxMxtOKN3bzGSiYH4OIh-Z/view?usp=drive_link)| 
+| 7      | 19-Nov-2024 | Tuesday     | Lecture 18 ~ E-MOSFET Amplifier (AC Analysis) | [Slide](https://drive.google.com/file/d/17G-9JOcGCwKrkzyMMRfCSndgy9kpUOnt/view?usp=drive_link)| 
+
 ### Quiz-II 
 ~[Second Quiz (After Mid Sem till the Lecture 10)]
 🢣 $\textcolor{red}{To\ be\ Held\ on\ XX\ Nov\}$
