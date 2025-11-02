@@ -1,7 +1,7 @@
 # ANALOG CIRCUITS || MONSOON 2025 || ACADEMIC YEAR 2025-26
 
 ### Lecture Details || After Mid Semester || October to December 2026
-| Lecture No. | Date | Day            | Topic                                                     | Slide / Source                  |                                                                                           
+| Lecture No. | Date       | Day            | Topic                                                     | Slide / Source                  |                                                                                           
 |:-----------:|:----------:|:---------------|:----------------------------------------------------------|:-------------------------------:|
 | 1      | 06-Oct-2025 | Monday       | FET Introduction, n-Channel JFET (Construction) | [PP. XX--XX]()| 
 | 2      | 08-Oct-2025 | Wednesday    | nJFET (Operation & Characteristics)  | [PP. XX--XX]()| 
@@ -21,8 +21,8 @@
 🢣 $\textcolor{red}{To\ be\ Held\ on\ XX\ Nov\}$
 
 ### Text Books & Other Materials
-| Sl. No. | Book | Author | Link to Source|                                                                                              
-|:---:|:--:|:--|:--------------------------:|
+| Sl. No. | Book                                                       | Author             | Link to Source                                                                     |                                                                                              
+|:-------:|:----------------------------------------------------------:|:-------------------|:------------------------------------------------------------------------------------------------:|
 | 1       | Electronic Devices And Circuit Theory, 11th Edition        |Boylestad, Nashelsky|  [EDCT11E](https://drive.google.com/file/d/1N_WZ8uH8GEKh8DWZ2zh5ShM0W37qtTHv/view?usp=drive_link)|
 | 2       | CMOS Digital Integrated Circuits, 2E                       | Kang, Leblebici |                [CDIC](https://drive.google.com/file/d/1BL6NRLStpfjpM32yeMuDO61SIfg6-S_j/view?usp=drive_link)| 
 | 3       | Electronic Devices (Electronic Flow Version), 9th Edition  | Floyd|                [EDEFV9E](https://drive.google.com/file/d/1ouSePt-0VKrnFWa9dIgbylVdvTIrbNeh/view?usp=drive_link)| 
