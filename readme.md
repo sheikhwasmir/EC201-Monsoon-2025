@@ -14,7 +14,7 @@
 | 8      | 29-Oct-2025 | Wednesday    | FET Biasing IV (n-Ch E-MOSFET: Feedback Bias, Voltage Divider Bias) | [Slide](https://drive.google.com/file/d/1TNrk9dC3HrLy9KJVNRLZoPJu6e78PpqS/view?usp=drive_link)| 
 | 9(i)   | 30-Oct-2025 | Thursday      | FET Amplifiers I (Introduction, Application, Amplifier Configurations, JFET Small Signal Model) | [Slide](https://drive.google.com/file/d/1Hvw00pJ23F3egvcpgSIXqzI39kluFoot/view?usp=drive_link)|
 | 9(ii)  | 30-Oct-2025 | Thursday      | FET Amplifiers II (JFET Small Signal Model: Mathematical Defintion of gm) | [Pages. 483--484](https://drive.google.com/file/d/1N_WZ8uH8GEKh8DWZ2zh5ShM0W37qtTHv/view?usp=drive_link)|
-| 10     | 03-Nov-2025 | Thursday      | FET Amplifiers III (JFET Small Signal Model: gm v/s input voltage, Effect of drain current on gm, Zi, Zo, JFET ac equivalent ckt) | [Pages. 484--489](https://drive.google.com/file/d/1N_WZ8uH8GEKh8DWZ2zh5ShM0W37qtTHv/view?usp=drive_link)|
+| 10     | 03-Nov-2025 | Monday     | FET Amplifiers III (JFET Small Signal Model: gm v/s input voltage, Effect of drain current on gm, Zi, Zo, JFET ac equivalent ckt) | [Pages. 484--489](https://drive.google.com/file/d/1N_WZ8uH8GEKh8DWZ2zh5ShM0W37qtTHv/view?usp=drive_link)|
 | 11     | 06-Nov-2025 | Thursday      | FET Amplifiers IV (JFET Common Source Configurations) | [To be conducted]()|
 
 ### Quiz-II 
