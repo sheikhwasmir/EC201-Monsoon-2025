@@ -21,13 +21,13 @@
 ### Extra Lecture (Compensation for Medical Leave) 
 ~[In addition to regular Thursday Lecture Session (13th Nov. 2025) at 11:00 AM to 12:00 Noon]
 
-🢣 $\textcolor{green}{To\ be\ Held\ on\ 13th\ Nov\ 2025\ ,\ Thursday\ Time\ :\ 4:00PM\ to\ 5:00PM\}$ 
+🢣 $\textcolor{green}{To\ be\ Held\ on\ 13th\ Nov\ 2025\ ,\ Thursday,\ Time\ :\ 4:00PM\ to\ 5:00PM\}$ 
 
 
 ### Quiz-II 
 ~[Second Quiz (After Mid Sem till the Lecture 10)]
 
-🢣 $\textcolor{green}{To\ be\ Held\ on\ 14th\ Nov\ 2025\ ,\ Friday\ Time\ :\ 4:00PM\ to\ 5:00PM\}$ 
+🢣 $\textcolor{green}{To\ be\ Held\ on\ 14th\ Nov\ 2025\ ,\ Friday,\ Time\ :\ 4:00PM\ to\ 5:00PM\}$ 
 
 ### Text Books & Other Materials
 | Sl. No. | Book                                                       | Author             | Link to Source                                                                     |                                                                                              
