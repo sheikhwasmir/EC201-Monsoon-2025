@@ -20,7 +20,7 @@
 
 ### Quiz-II 
 ~[Second Quiz (After Mid Sem till the Lecture 10)]
-🢣 $\textcolor{red}{To\ be\ Held\ on\ 14th\ Nov\ 2025\}$
+🢣 $\textcolor{red}{To\ be\ Held\ on\ 14th\ Nov\ 2025\ ,\ Friday\ Time\ :\ 4:00PM\ to\ 5:00PM\}$ 
 
 ### Text Books & Other Materials
 | Sl. No. | Book                                                       | Author             | Link to Source                                                                     |                                                                                              
