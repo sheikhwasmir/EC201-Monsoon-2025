@@ -18,10 +18,16 @@
 | 11     | 06-Nov-2025 | Thursday      | FET Amplifiers IV (JFET Common Source Configurations) | [Pages. 489--498](https://drive.google.com/file/d/1N_WZ8uH8GEKh8DWZ2zh5ShM0W37qtTHv/view?usp=drive_link)|
 | 12     | 10-Nov-2025 | Monday        | FET Amplifiers V (JFET Common Gate & Common Gate Configurations; D-MOSFET Common Source Configuration) | [Slide](https://drive.google.com/file/d/14PojgipeNwK2BuzP4QjwvbJTVmxmTURV/view?usp=drive_link)|
 
+### Extra Lecture (Compensation for Medical Leave) 
+~[In addition to regular Thursday Lecture Session (13th Nov. 2025) at 11:00 AM to 12:00 Noon]
+
+🢣 $\textcolor{green}{To\ be\ Held\ on\ 13th\ Nov\ 2025\ ,\ Thursday\ Time\ :\ 4:00PM\ to\ 5:00PM\}$ 
+
+
 ### Quiz-II 
 ~[Second Quiz (After Mid Sem till the Lecture 10)]
 
-🢣 $\textcolor{red}{To\ be\ Held\ on\ 14th\ Nov\ 2025\ ,\ Friday\ Time\ :\ 4:00PM\ to\ 5:00PM\}$ 
+🢣 $\textcolor{green}{To\ be\ Held\ on\ 14th\ Nov\ 2025\ ,\ Friday\ Time\ :\ 4:00PM\ to\ 5:00PM\}$ 
 
 ### Text Books & Other Materials
 | Sl. No. | Book                                                       | Author             | Link to Source                                                                     |                                                                                              
