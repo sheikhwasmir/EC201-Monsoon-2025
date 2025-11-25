@@ -22,8 +22,8 @@
 | 15     | 13-Nov-2025 | Thursday     | FET Amplifiers VIII: High Frequency Response | [Pages. 574--576, 584-586](https://drive.google.com/file/d/1N_WZ8uH8GEKh8DWZ2zh5ShM0W37qtTHv/view?usp=drive_link)|
 | 16     | 19-Nov-2025 | Wednesday    | FET Amplifiers IX: High Frequency Response Example | [Pages. 574--576, 584-586](https://drive.google.com/file/d/1N_WZ8uH8GEKh8DWZ2zh5ShM0W37qtTHv/view?usp=drive_link)|
 | 17     | 20-Nov-2025 | Thursday     | Cascaded FET, Op-amp Specifications | [Slide](https://drive.google.com/file/d/1MiBlZISGuAZDP-Z_QhhWrMaLEb9b_VPg/view?usp=drive_link)|
-| 18     | 24-Nov-2025 | Monday       | Filters: Filter Reponse or Approximations, 1 & II order LPF, HPF, II Order BPF | [Pages]()|													
-
+| 18(i)     | 24-Nov-2025 | Monday       | Filters: Filter Reponse or Approximations, 1 & II order LPF, HPF, II Order BPF | [Pages. 667--671](https://drive.google.com/file/d/1N_WZ8uH8GEKh8DWZ2zh5ShM0W37qtTHv/view?usp=drive_link)|													
+| 18(ii)     | 24-Nov-2025 | Monday       | Filters: Filter Reponse or Approximations, 1 & II order LPF, HPF, II Order BPF | [Pages. 763--781](https://drive.google.com/file/d/1ouSePt-0VKrnFWa9dIgbylVdvTIrbNeh/view?usp=drive_link)|
 
 ### Extra Lecture (Compensation for Medical Leave) 
 [In addition to regular Thursday Lecture Session (13th Nov. 2025) at 11:00 AM to 12:00 Noon]
@@ -34,7 +34,12 @@
 ### Quiz-II 
 [Second Quiz (After Mid Sem till the Lecture 10)]
 
-🢣 $\textcolor{green}{To\ be\ Held\ on\ 14th\ Nov\ 2025\ ,\ Friday,\ Time\ :\ 4:00PM\ to\ 5:00PM\}$ 
+🢣 $\textcolor{green}{Held\ on\ 17th\ Nov\ 2025\ ,\ Monday,\ Time\ :\ 9:00AM\ to\ 10:00AM\}$ 
+
+### End Sem Exam
+[(After Mid Sem i.e., From Lecture 1 (6-Oct-2025) to Lecture 18(ii) (24-Nov-2025) )]
+
+🢣 $\textcolor{green}{To\ be\ held\ on\ 30th\ Nov\ 2025\ ,\ Sunday,\ Time\ :\ 9:30AM\ to\ 12:30PM\}$ 
 
 ### Text Books & Other Materials
 | Sl. No. | Book                                                       | Author             | Link to Source                                                                     |                                                                                              
