@@ -17,7 +17,6 @@
 | 10     | 03-Nov-2025 | Monday       | FET Amplifiers III (JFET Small Signal Model: gm v/s input voltage, Effect of drain current on gm, Zi, Zo, JFET ac equivalent ckt) | [Pages. 484--489](https://drive.google.com/file/d/1N_WZ8uH8GEKh8DWZ2zh5ShM0W37qtTHv/view?usp=drive_link)|
 | 11     | 06-Nov-2025 | Thursday     | FET Amplifiers IV (JFET Common Source Configurations) | [Pages. 489--498](https://drive.google.com/file/d/1N_WZ8uH8GEKh8DWZ2zh5ShM0W37qtTHv/view?usp=drive_link)|
 | 12     | 10-Nov-2025 | Monday       | FET Amplifiers V (JFET Common Gate & Common Gate Configurations; D-MOSFET Common Source Configuration) | [Slide](https://drive.google.com/file/d/14PojgipeNwK2BuzP4QjwvbJTVmxmTURV/view?usp=drive_link)|
-
 | 13     | 12-Nov-2025 | Wednesday    | FET Amplifiers VI (E-MOSFET Drain-Feedback and Voltage-Divider, Designing FET Amplifiers) | [Slide]()|
 | 14     | 13-Nov-2025 | Thursday     | FET Amplifiers VII: Low Frequency Response | [Pages]()|
 | 15     | 13-Nov-2025 | Thursday     | FET Amplifiers VIII: High Frequency Response | [Pages]()|
