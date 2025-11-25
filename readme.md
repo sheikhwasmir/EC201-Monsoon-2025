@@ -18,9 +18,9 @@
 | 11     | 06-Nov-2025 | Thursday     | FET Amplifiers IV (JFET Common Source Configurations) | [Pages. 489--498](https://drive.google.com/file/d/1N_WZ8uH8GEKh8DWZ2zh5ShM0W37qtTHv/view?usp=drive_link)|
 | 12     | 10-Nov-2025 | Monday       | FET Amplifiers V (JFET Common Gate & Common Gate Configurations; D-MOSFET Common Source Configuration) | [Slide](https://drive.google.com/file/d/14PojgipeNwK2BuzP4QjwvbJTVmxmTURV/view?usp=drive_link)|
 | 13     | 12-Nov-2025 | Wednesday    | FET Amplifiers VI (E-MOSFET Drain-Feedback and Voltage-Divider, Designing FET Amplifiers) | [Slide](https://drive.google.com/file/d/1Ir-9pCDhRfNrYmi5TiSWVVHfUVJWaC6_/view?usp=drive_link)|
-| 14     | 13-Nov-2025 | Thursday     | FET Amplifiers VII: Low Frequency Response | [Pages]()|
-| 15     | 13-Nov-2025 | Thursday     | FET Amplifiers VIII: High Frequency Response | [Pages]()|
-| 16     | 19-Nov-2025 | Wednesday    | FET Amplifiers IX: High Frequency Response Example | [NA]()|
+| 14     | 13-Nov-2025 | Thursday     | FET Amplifiers VII: Low Frequency Response | [Pages. 571--574](https://drive.google.com/file/d/1N_WZ8uH8GEKh8DWZ2zh5ShM0W37qtTHv/view?usp=drive_link)|
+| 15     | 13-Nov-2025 | Thursday     | FET Amplifiers VIII: High Frequency Response | [Pages. 574--576, 584-586](https://drive.google.com/file/d/1N_WZ8uH8GEKh8DWZ2zh5ShM0W37qtTHv/view?usp=drive_link)|
+| 16     | 19-Nov-2025 | Wednesday    | FET Amplifiers IX: High Frequency Response Example | [Pages. 574--576, 584-586](https://drive.google.com/file/d/1N_WZ8uH8GEKh8DWZ2zh5ShM0W37qtTHv/view?usp=drive_link)|
 | 17     | 20-Nov-2025 | Thursday     | Cascaded FET, Op-amp Specifications | [Slide](https://drive.google.com/file/d/1MiBlZISGuAZDP-Z_QhhWrMaLEb9b_VPg/view?usp=drive_link)|
 | 18     | 24-Nov-2025 | Monday       | Filters: Filter Reponse or Approximations, 1 & II order LPF, HPF, II Order BPF | [Pages]()|													
 
