@@ -21,7 +21,7 @@
 | 14     | 13-Nov-2025 | Thursday     | FET Amplifiers VII: Low Frequency Response | [Pages]()|
 | 15     | 13-Nov-2025 | Thursday     | FET Amplifiers VIII: High Frequency Response | [Pages]()|
 | 16     | 19-Nov-2025 | Wednesday    | FET Amplifiers IX: High Frequency Response Example | [NA]()|
-| 17     | 20-Nov-2025 | Thursday     | Cascaded FET, Op-amp Specifications | [Pages](https://drive.google.com/file/d/1MiBlZISGuAZDP-Z_QhhWrMaLEb9b_VPg/view?usp=drive_link)|
+| 17     | 20-Nov-2025 | Thursday     | Cascaded FET, Op-amp Specifications | [Slide](https://drive.google.com/file/d/1MiBlZISGuAZDP-Z_QhhWrMaLEb9b_VPg/view?usp=drive_link)|
 | 18     | 24-Nov-2025 | Monday       | Filters: Filter Reponse or Approximations, 1 & II order LPF, HPF, II Order BPF | [Pages]()|													
 
 
